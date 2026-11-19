@@ -1,0 +1,9 @@
+Repository name: PES2UG24AM095_Lab3
+
+Suggested commands:
+git init
+git add .
+git commit -m "Complete Lab 3 - Component Modelling and Architecture"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/PES2UG24AM095_Lab3.git
+git push -u origin main
