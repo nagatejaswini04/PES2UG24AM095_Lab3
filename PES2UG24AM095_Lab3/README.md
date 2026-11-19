@@ -1,6 +1,6 @@
 # Lab 3 – Component Modelling & Architectural Pattern Selection
 
-**Student:** SatyaTeju  
+**Student:**Naga Tejaswini 
 **SRN:** PES2UG24AM095  
 **Section:** 5B  
 **System:** Self-Service Coffee Kiosk System  
